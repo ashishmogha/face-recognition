@@ -7,3 +7,4 @@ Dataset is created and stored in faces.npy
 Requirements : 
 1. Numpy
 2. OpenCV
+3. Keras
